@@ -12,3 +12,6 @@ Mask_RCNN-master is the vehicles detection project
 
 We are adding this Mask_RCNN features with the api :  vehicles_detection_api
 Thus we will get an api that will aware blind man of car and save him from road accident
+
+
+![Instance Segmentation Sample](Mask_RCNN-master/assets/street.png)
